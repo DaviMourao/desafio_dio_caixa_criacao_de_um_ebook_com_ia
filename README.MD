@@ -24,9 +24,13 @@ ChatGPT：
 
 {REGRAS}
 > Explique sempre de uma maneira simples
+
 > Deixe o texto enxuto
+
 > Sempre traga exemplos de código em contextos reais
+
 > Crie um nome
+
 > sempre deixe um título sugestivo por tópico
 
 
