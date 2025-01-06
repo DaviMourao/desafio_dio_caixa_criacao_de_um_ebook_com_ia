@@ -8,9 +8,9 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [DALL-E](https://openai.com/index/dall-e-2/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-- [Ray](https://ray.so/)
+- [Canva](https://www.canva.com/)
+- [Copilot](https://copilot.microsoft.com/)
+
 
 ## 🧠 Prompts
 
@@ -19,33 +19,30 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 5 títulos de um e-book sobre o tema de Python, do nicho de programação e como subdivisão Python. O título deve ser épico e curto e que tenha uma temática mais acessível para pessoas que não conhecem o tema, de uma pessoa que não sabia nada até uma que aprendeu diversas partes.                                                       |
-| conteúdo | faça um texto para ebook, com foco em Python, falando os passos iniciais para aprender a linguagem, para alguém que nunca tenha programado antes. E que o escritor do ebook também tenha sido de uma área de trabalho diferente da programação e nunca tinha tido contato antes, até aprender depois de muito estudo.
+|  título  |Faça um texto para ebook, com foco no App Inventor, listando os principais benefícios em usar a plataforma para programar e alguns exemplos de usos para criação de apps.
+| conteúdo | 
+            {REGRAS}
+            >Explique sempre de uma maneira simples
+            >Deixe o texto enxuto
+            >Sempre traga exemplos de apps ja publicados pela plataforma
+            >Sempre deixe um título sugestivo por tópico
+            {CONTEXTO}
+            > App Inventor é a plataforma de criação de apps do MIT
+            >o site oficial deles é: https://appinventor.mit.edu/   
+|  título  2 |Seguindo as mesmas regras traga mais de apps simples ja publicados na plataforma
 
-{REGRAS}
-> Explique sempre de uma maneira simples
-
-> Deixe o texto enxuto
-
-> Sempre traga exemplos de código em contextos reais
-
-> Crie um nome
-
-> sempre deixe um título sugestivo por tópico
-
-
-DALL-E：
+Coplot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título |a newbie in IT programming or Python programming with an apparent doubt in his facial expression (first part of the image). A intermediate/professional programmer showing a expression of confidence and determination (the second part of the image). Comic Art Style |
+| título |make a image: a developer programmns people with his computer, in style pixel art
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via DALL-E
+- Imagens geradas via Copilot
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como canva, power point, libreoffice , indesign para diagramação.
 
