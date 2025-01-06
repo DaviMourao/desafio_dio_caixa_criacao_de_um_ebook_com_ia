@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Ibertson86/desafio_dio_caixa_criacao_de_um_ebook_com_ia/blob/main/python_da_curiosidade_ao_dominio.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="Criando Apps Simples, Úteis e Poderosos .pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
